@@ -1,4 +1,5 @@
 --- THIS WAS JUST A FUN LITTLE EXPERIMENT, WON'T BE UPDATING THIS..
+--- YOU CAN OPTIMIZE, AND DO WHATEVER YOU WANT WITH HIS 
 
 system.setScriptName("Horse Options")
 local SESSION = menu.addSubmenu('self', '~t1~SESSION OPTIONS', '~t4~C~q~S~t1~N')
